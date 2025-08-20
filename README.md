@@ -33,10 +33,10 @@ It demonstrates the use of:
 - Player input handling  
 - Scoring and game state management
 
-## Screen recording of the game attached too!
-
 ---
 
 ## 🛠️ Built With
 - [Unity](https://unity.com/) (WebGL build)  
-- C# for game logic  
+- C# for game logic
+
+## Screen recording of the game attached too!
