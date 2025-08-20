@@ -31,7 +31,9 @@ This project was created while following the **Unity Learn Junior Programmer** p
 It demonstrates the use of:
 - Object spawning  
 - Player input handling  
-- Scoring and game state management  
+- Scoring and game state management
+
+## Screen recording of the game attached too!
 
 ---
 
